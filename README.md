@@ -233,6 +233,10 @@ We use [Bugzilla](https://bugzilla.mozilla.org/) to track development.
 File bugs in Bugzilla under
 [Conduit :: moz-phab](https://bugzilla.mozilla.org/enter_bug.cgi?product=Conduit&component=moz-phab).
 
+## Support
+
+To talk to the `moz-phab` team, you can join them on [Matrix](https://chat.mozilla.org/#/room/#moz-phab:mozilla.org).
+
 ## Development
 
 To install your code call `pip3 install -e .` from MozPhab project directory (`review`
